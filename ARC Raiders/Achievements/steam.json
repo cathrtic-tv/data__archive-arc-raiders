@@ -1,0 +1,352 @@
+{
+    "scavenger": {
+        "name": "Scavenger",
+        "description": "Search 50 item containers",
+        "hidden": false,
+        "award": "",
+        "image": "8f8c47fb511b29f79b910e991b44a8248cb277cf031115added5392760b56bfa.png"
+    },
+    "well-travelled": {
+        "name": "Well-Travelled",
+        "description": "Safely return from Dam Battlegrounds, Buried City and Spaceport",
+        "hidden": false,
+        "award": "",
+        "image": "f02e57bbf6b3c1f1db3583428cf2f01a52672836dd5e8b6b26dc178ae15cb68b.png"
+    },
+    "the-big-haul": {
+        "name": "The Big Haul",
+        "description": "Return to Speranza with 50 000 worth of loot",
+        "hidden": false,
+        "award": "",
+        "image": "61c20eb7ea7c20aeb2829a95c305a1d53ba49785a266a03bb7cc5bfe5773d43c.png"
+    },
+    "three-birds-one-stone": {
+        "name": "Three Birds, One Stone",
+        "description": "Destroy 3 ARC enemies with a single Wolfpack grenade.",
+        "hidden": false,
+        "award": "",
+        "image": "6667ef395acec23716b7176ee5b938c068f1d0ae481c1c008d1e229ce1d81dfd.png"
+    },
+    "snitches-get-stitches": {
+        "name": "Snitches get Stitches",
+        "description": "Destroy a Snitch with a Stitcher.",
+        "hidden": false,
+        "award": "",
+        "image": "e794aaead2d09e6ffee08bf062e6537bd1595652d0b324f5d338d117f3cec782.png"
+    },
+    "escape-artist": {
+        "name": "Escape Artist",
+        "description": "Safely return to Speranza 100 times",
+        "hidden": false,
+        "award": "",
+        "image": "2992aacee0ef9983fb2b8e7e0b435ddf0ec0b2b7423bd88254c9fb8a567d2e49.png"
+    },
+    "rite-of-passage": {
+        "name": "Rite of Passage",
+        "description": "Safely return to Speranza for the first time.",
+        "hidden": false,
+        "award": "",
+        "image": "2874f856a19f1efa5af51ad35e6df5c8135bb95ae667083b54b3931761f6ccc0.png"
+    },
+    "into-thin-air": {
+        "name": "Into Thin Air",
+        "description": "Safely return to Speranza through a Raider Hatch.",
+        "hidden": false,
+        "award": "",
+        "image": "19993d48787e78bae6a01ea02978fab0fa23adbd65cd8f1de4957f1293d14b33.png"
+    },
+    "behind-closed-doors": {
+        "name": "Behind Closed Doors",
+        "description": "Visit a locked room in Dam Battlegrounds, Buried City or Spaceport.",
+        "hidden": false,
+        "award": "",
+        "image": "32a6a68f3b47fb1d759620bab7f4060d80f49c6159b7882897548951b9166d04.png"
+    },
+    "the-long-haul": {
+        "name": "The Long Haul",
+        "description": "Reach a total lifetime loot value of 1 000 000.",
+        "hidden": false,
+        "award": "",
+        "image": "a576d7c03b554cc5fd858a7f178302d47e334fe0b561eb283f1dac0b01728fa9.png"
+    },
+    "expert-weaponsmith": {
+        "name": "Expert Weaponsmith",
+        "description": "Upgrade a weapon to Tier IV.",
+        "hidden": false,
+        "award": "",
+        "image": "904f5bf6b8c5528db3c53b33a23d3173f02cf4434905a98bf8ab343b8cf7207c.png"
+    },
+    "well-armed": {
+        "name": "Well-Armed",
+        "description": "Have two weapons of Tier II or higher equipped in a round.",
+        "hidden": false,
+        "award": "",
+        "image": "5c84f0de94c728d66a1cf07ad0da5c43335ca362a25667e8be2c8b42ebba17db.png"
+    },
+    "back-from-the-brink": {
+        "name": "Back from the Brink",
+        "description": "Revive a squadmate ten times",
+        "hidden": false,
+        "award": "",
+        "image": "f00721963f0ac3924b455db5848c2bc2c45856c636a5654a35adb535c997aa2e.png"
+    },
+    "legend-of-speranza": {
+        "name": "Legend of Speranza",
+        "description": "Reach level 75.",
+        "hidden": false,
+        "award": "",
+        "image": "1bf8baf2b83f7fea34832a05d80b98cee37048e12710d94e0e9729853f9cd7ab.png"
+    },
+    "dedicated-to-the-craft": {
+        "name": "Dedicated to the Craft",
+        "description": "Have five stations upgraded to level 3 or higher.",
+        "hidden": false,
+        "award": "",
+        "image": "30bc221ea032e5bcfb0533f1222edb13dceb6030ec6d31e65c9e5a2ca200aa9a.png"
+    },
+    "self-sufficient": {
+        "name": "Self-Sufficient",
+        "description": "Install a station in your Workshop.",
+        "hidden": false,
+        "award": "",
+        "image": "1a9956729e04e0b60388d3e9fc5d1268da41bec32bc6373bbfff99ddb0d17335.png"
+    },
+    "in-your-element": {
+        "name": "In Your Element",
+        "description": "Reach level 10.",
+        "hidden": false,
+        "award": "",
+        "image": "1bebeb74c9a2e9b9eeeeb773b2df9e18e2d7f8a20c70bc9410a6736bc2ecff69.png"
+    },
+    "getting-serious": {
+        "name": "Getting Serious",
+        "description": "Upgrade a Workshop station to level 2.",
+        "hidden": false,
+        "award": "",
+        "image": "cff867d03156a2cafa4204a2f7e423c037ba5ca366d50f149e8fa5a6f4ceac7c.png"
+    },
+    "same-song-same-verse": {
+        "name": "Same Song, Same Verse",
+        "description": "Set off two car alarms in a single round.",
+        "hidden": false,
+        "award": "",
+        "image": "efb725daa96b9d94a0d6633280dbad9146dc5df1f8acea9469e8f1ef9fec5dc1.png"
+    },
+    "in-the-nick-of-time": {
+        "name": "In the Nick of Time",
+        "description": "Safely return to Speranza with less than 5 seconds left in the round.",
+        "hidden": false,
+        "award": "",
+        "image": "655be513804502822558048dbcdbc18faf8b3832b1450e92d839ab77d444a755.png"
+    },
+    "not-over-till-its-over": {
+        "name": "Not Over Till It's Over",
+        "description": "Safely return to Speranza while being downed.",
+        "hidden": false,
+        "award": "",
+        "image": "03a85ea782e772c189f6d4f42d542b5c49d514c9858e6dd19104ffa464409992.png"
+    },
+    "bells-and-whistles": {
+        "name": "Bells and Whistles",
+        "description": "Have 4 weapon mods on a single weapon.",
+        "hidden": false,
+        "award": "",
+        "image": "cd0d11b910135950e08076a316005df868978d978860ac3d0cd0488222af4444.png"
+    },
+    "long-shot": {
+        "name": "Long Shot",
+        "description": "Hit a target over 250 meters away.",
+        "hidden": false,
+        "award": "",
+        "image": "dc338eb4671e87e645f77e595f2eed20a20427f9991284257067b8948b184db6.png"
+    },
+    "last-one-out": {
+        "name": "Last One Out",
+        "description": "Be topside when the safe window closes.",
+        "hidden": true,
+        "award": "",
+        "image": "b86395c38432bb82ce93f67cbfe8c10398543eb169be84f3a7b05f17354cb00d.png"
+    },
+    "gift-from-above": {
+        "name": "Gift From Above",
+        "description": "Get hit by a Supply Drop.",
+        "hidden": true,
+        "award": "",
+        "image": "a4132fad98e4822618f5a0055ab83d0dbfc8cee7a65e3cc74aeeeb61c502d128.png"
+    },
+    "most-durable-pants-in-speranza": {
+        "name": "Most Durable Pants in Speranza",
+        "description": "Slide 80 meters without stopping.",
+        "hidden": false,
+        "award": "",
+        "image": "1b21c2f17a51a1c61b162a51937b3b069ff12341213745b4803c90db2cf29fe7.png"
+    },
+    "see-you-never": {
+        "name": "See You Never",
+        "description": "Return safely to Speranza while leaving behind a squadmate.",
+        "hidden": true,
+        "award": "",
+        "image": "9f3d5f64c66a155856a90f8d14d342ee14776785fa7b342f523c50f199d18a59.png"
+    },
+    "today-you-tomorrow-me": {
+        "name": "Today You, Tomorrow Me",
+        "description": "Revive a Raider outside your squad.",
+        "hidden": false,
+        "award": "",
+        "image": "052deff7448b9c4af1b986068c95f1cf27556e1c726d30be4d8757a1f21f3e51.png"
+    },
+    "top-of-the-world": {
+        "name": "Top of the World",
+        "description": "Reach the top of the Launch Towers in Spaceport.",
+        "hidden": true,
+        "award": "",
+        "image": "75e90e2f39d7aeb692a97d9293e9dded21664cbc8f11adab5d072921c26c8543.png"
+    },
+    "for-science": {
+        "name": "For Science!",
+        "description": "Get gas, stun, and burn statuses at the same time.",
+        "hidden": false,
+        "award": "",
+        "image": "fc0dd5d461d40646180d64e9808927e854cd5e51f1c5bcce77f1658bb952a268.png"
+    },
+    "shots-fired": {
+        "name": "Shots Fired",
+        "description": "Deal 1000 damage to ARC enemies.",
+        "hidden": false,
+        "award": "",
+        "image": "16b5b949b45e9fd1f766ef44acb2c11b42c82f530c3f6067e511adcd9ec6c4e3.png"
+    },
+    "racking-them-up": {
+        "name": "Racking Them Up",
+        "description": "Destroy 50 ARC enemies.",
+        "hidden": false,
+        "award": "",
+        "image": "ebcf30fb320e19fcaadeebfc8ef0ba277a86be8ca8f550e3ea6a15d406165ad8.png"
+    },
+    "trail-of-destruction": {
+        "name": "Trail Of Destruction",
+        "description": "Destroy 100 ARC enemies.",
+        "hidden": false,
+        "award": "",
+        "image": "ed1c7b12caa92f6dbbf40892ac5bd48d0e4dc0be2cbd323b20f73abba7e85db7.png"
+    },
+    "death-from-above": {
+        "name": "Death From Above",
+        "description": "Deal 50 damage to any enemy while atop a Rocketeer.",
+        "hidden": true,
+        "award": "",
+        "image": "b0a23c7f747dcccbec3e5be0b708bd76512cbd7d3486da4bf7ca1ae064f41422.png"
+    },
+    "bringing-down-the-big-guns": {
+        "name": "Bringing Down the Big Guns",
+        "description": "Destroy a Rocketeer.",
+        "hidden": false,
+        "award": "",
+        "image": "97ac21eea64ac7cd3baf9f8d1c7345f9a6a0bfeeffee59ec60b4b8c13be1cd8f.png"
+    },
+    "bragging-rights": {
+        "name": "Bragging Rights",
+        "description": "Destroy a Bastion.",
+        "hidden": false,
+        "award": "",
+        "image": "fafcf99ec0b4e18eb51cc528a7c735d3a87edca993b955356ee11b8492d32465.png"
+    },
+    "a-tale-for-the-ages": {
+        "name": "A Tale for the Ages",
+        "description": "Destroy the Queen.",
+        "hidden": false,
+        "award": "",
+        "image": "5bd934b30840a8fb715edbfccd94a24a8c7c13903644cb0eb29e5760333a5ed7.png"
+    },
+    "blindsided": {
+        "name": "Blindsided",
+        "description": "Destroy a Sentinel with a Raider Tool.",
+        "hidden": false,
+        "award": "",
+        "image": "57fc81dab97ee5e39742a26d0cb6485e28d58432c6738d97df62fefcb52c4732.png"
+    },
+    "comparative-study": {
+        "name": "Comparative Study",
+        "description": "Use 4 different weapons to deal damage in the Practice Range.",
+        "hidden": false,
+        "award": "",
+        "image": "d3cb270170297e3b7d753cfa57298bb3ef0c4c7428a2f9437cb897cbb11f64b7.png"
+    },
+    "hook-line-and-sinker": {
+        "name": "Hook, Line, and Sinker",
+        "description": "Use a Lure Grenade to make a drone attack another drone.",
+        "hidden": false,
+        "award": "",
+        "image": "b65acd4b76b51bd4ce1ac8134b799eded2ff2f7f60ed917e7c2ddd38121d0ed7.png"
+    },
+    "mechanical-failure": {
+        "name": "Mechanical Failure",
+        "description": "Shoot a thruster off a Wasp.",
+        "hidden": false,
+        "award": "",
+        "image": "0a4127d0cd93aa3a32ee447c417b56e786412702deea1f5af434f913850192c6.png"
+    },
+    "unyielding": {
+        "name": "Unyielding",
+        "description": "Knock out 10 Raiders.",
+        "hidden": false,
+        "award": "",
+        "image": "7e8917c554fa1ef7c89cb753ecadc1676d3236bf16f599249cade25921cdede2.png"
+    },
+    "a-vendetta-is-born": {
+        "name": "A Vendetta Is Born",
+        "description": "Get downed and knocked out while inside an exit point.",
+        "hidden": true,
+        "award": "",
+        "image": "7442f510388a1223b796772f838d325c9269c6c124271927868abe9468cb30a5.png"
+    },
+    "horseshoes-and-hand-grenades": {
+        "name": "Horseshoes and Hand Grenades",
+        "description": "Down a Raider outside your squad with a grenade.",
+        "hidden": false,
+        "award": "",
+        "image": "433352ea96c1572935c4faff88a43275217d9541af41c15f7da3df0f1f82f049.png"
+    },
+    "crossed-the-threshold": {
+        "name": "Crossed the Threshold",
+        "description": "Knock out a Raider.",
+        "hidden": false,
+        "award": "",
+        "image": "647194517f7981c401879989ae585f8e01e327516fca41ccac1f434e370c46ab.png"
+    },
+    "up-close-and-personal": {
+        "name": "Up Close and Personal",
+        "description": "Knock out a Raider with a Raider Tool.",
+        "hidden": false,
+        "award": "",
+        "image": "4d80e634ab1d2405b11f193e0cef0a4e5a9e4c6d69aa9687650d45096258d1b9.png"
+    },
+    "the-friends-we-made-along-the-way": {
+        "name": "The Friends We Made Along The Way",
+        "description": "Return to Speranza together with a stranger.",
+        "hidden": false,
+        "award": "",
+        "image": "697c36440d3d2a246be8a8b6e8cd95a7c0166b37860ea43c36f535f0789c313b.png"
+    },
+    "enemy-of-my-enemy": {
+        "name": "Enemy of my Enemy",
+        "description": "Get a non-squadmate Raider downed by ARC enemies summoned with a Snitch Scanner.",
+        "hidden": true,
+        "award": "",
+        "image": "d068629ae86e2e016668bccf138e61613abe58d584a3ffe66148170dd0d884e8.png"
+    },
+    "heart-of-gold": {
+        "name": "Heart of Gold",
+        "description": "Be thanked 10 times in direct response to something you did.",
+        "hidden": false,
+        "award": "",
+        "image": "78790b0447f2c82eac1e45cc3a5faf3df06b88572f8121c9ff3859186733a090.png"
+    },
+    "practice-makes-perfect": {
+        "name": "Practice Makes Perfect",
+        "description": "Visit the Practice Range.",
+        "hidden": false,
+        "award": "",
+        "image": "292bed154fc3d0d3fbf01b55c0fbbd222f5296436d21ade3c1d48d48caefedb3.png"
+    }
+}
